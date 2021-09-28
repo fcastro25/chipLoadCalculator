@@ -9,5 +9,5 @@ This tool is useful for thoses who work with CNC router machines since chip load
 ## Features
 
 * Calculate chip load for the provided parameters;
-* Generate a graph with actual chip load value as well as a range of values around the actual one;
+* Generate a graph with the actual chip load value as well as a range of values around the actual one;
 * Export an imagem of the whole GUI.
