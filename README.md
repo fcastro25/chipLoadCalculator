@@ -1,4 +1,4 @@
-# chipLoadCalculator
+# Chipload Calculator
 
 ![Chipload calculator GUI](https://github.com/fcastro25/chipLoadCalculator/blob/main/Sem%20t%C3%ADtulo.png)
 
